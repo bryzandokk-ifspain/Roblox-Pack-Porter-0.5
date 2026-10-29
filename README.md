@@ -1,4 +1,4 @@
-# KodaMesh Porter v0.5 (Electron integration)
+# KodaMesh Porter (Electron integration)
 
 This desktop build connects the Electron UI to the existing `portpack.js` processing pipeline. It preserves the original texture processing, Blender mesh generation, Roblox asset upload, Zstandard JSON generation, sky processing, and crosshair processing logic.
 
